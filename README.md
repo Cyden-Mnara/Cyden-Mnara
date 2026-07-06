@@ -1,66 +1,102 @@
 # 👋 Hi there! Welcome to @Cyden-Mnara's GitHub
 
-🌍 **"Exploring, Learning, and Building a Better Digital World!"**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=650&lines=Vue+%2B+TypeScript+Developer;Rust+%2B+Tauri+Explorer;Building+Agentic+Software;Learning+by+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>Think like a builder. Feel like a dreamer. Move like a warrior.</strong>
+</p>
+
+🌍 **Exploring, learning, and building a better digital world.**
 
 ---
 
 ## About Me
-- 👋 I’m **Said Mnara**, a passionate developer and lifelong learner.
-- 💻 I specialize in **Vue.js**, **JavaScript**, **C++**, and **Java**, and love exploring new technologies.
-- 🌱 Currently, I’m diving deep  and advanced **web development techniques**.
-- 🎯 My goal is to create impactful software solutions that solve real-world problems.
+
+Hi, I’m **Said Mnara**, a passionate developer, lifelong learner, and technology enthusiast.
+
+I enjoy building practical software solutions that solve real-world problems. My main focus is **web development**, especially using **Vue.js**, **JavaScript**, **TypeScript**, and modern frontend technologies. I also explore **Rust**, desktop applications, cybersecurity, Linux, and open-source tools.
+
+I believe in learning by building, improving step by step, and creating software that is useful, clean, and impactful.
 
 ---
 
 ## My Interests
-- 🌟 **Web Development**: Building modern, responsive, and user-friendly web applications.
-- 📱 **Mobile App Development**: Building cross-platform mobile apps with **Flutter** that provide seamless user experiences.
-- 🔒 **Cybersecurity**: Exploring ways to build more secure and robust systems.
-- 🎨 **UI/UX Design**: Crafting designs that not only look good but feel great to use.
-- 🌐 **Open Source**: Contributing to projects that help the developer community grow.
+
+* 🌟 **Web Development** — Building modern, responsive, and user-friendly web applications.
+* 🔒 **Cybersecurity** — Learning how to create safer, stronger, and more reliable systems.
+* 🎨 **UI/UX Design** — Designing interfaces that are simple, clean, and enjoyable to use.
+* 🌐 **Open Source** — Exploring open-source projects through **CodeTriage** and learning from the developer community.
+* 🐧 **Linux & Tools** — Exploring Linux systems, developer tools, and automation workflows.
+* 🤖 **Agentic Software & AI Tools** — Experimenting with AI-powered systems and intelligent developer tools.
 
 ---
 
 ## What I’m Working On
-- 🚀 A **Vue.js SPA** focused on e-learning systems (**Kisomo 2.0**).
-- 🔧 Enhancing a **cross-platform application** using Electron Builder.
-- 
----
 
-## How to Reach Me
-- 📫 **Email**: [mnarasaid7@gmail.com](mailto:mnarasaid7@gmail.com)  
-- 🌐 **Website/Portfolio**: I will upolad it soon
-<!--
-- 💼 **LinkedIn**: [linkedin.com/in/cyden-mnara](https://linkedin.com/in/cyden-mnara)
+* 🔧 Building a **cross-platform desktop application** using **Tauri**.
+* 🧠 Exploring **agentic software design**, local AI models, and developer automation tools.
+* 🌱 Improving my skills in advanced web development, system design, Rust, and secure software practices.
+* 🧭 Using **CodeTriage** as my place to discover, study, and explore open-source projects.
 
--->
 ---
 
 ## Skills
-- **Languages**: JavaScript, Vue.js, C++, Java, PHP
-- **Tools**: Git, Electron, Vue Router, Axios, Webpack
+
+### Languages & Frameworks
+
+* JavaScript
+* TypeScript
+* Vue.js
+* Rust
+* HTML & CSS
+
+### Tools & Technologies
+
+* Git & GitHub
+* Tauri
+* Vue Router
+* Axios
+* Webpack
+* Linux
+* REST APIs
+* Nginx
+* Node.js
+* CodeTriage
+
+---
+
+## How to Reach Me
+
+* 📫 **Email**: [mnarasaid7@gmail.com](mailto:mnarasaid7@gmail.com)
+* 🌐 **Portfolio**: Coming soon
 
 ---
 
 ## Fun Facts
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love solving **Sudoku puzzles** when I’m not coding and enjoy gaming as well.  
-- 📚 When I’m not coding, you’ll find me exploring books or experimenting with new Linux distros.
+
+* 😄 Pronouns: He/Him
+* 🧩 I enjoy solving **Sudoku puzzles** when I’m not coding.
+* 🎮 I also enjoy gaming and exploring new technologies.
+* 📚 When I’m away from code, I like reading, learning, or experimenting with Linux distros.
 
 ---
 
-## Let’s Collaborate!
-💞️ I’m open to collaborating on:
-- Web apps and tools (especially in **Vue.js** or **JavaScript**).
-- Open-source projects in **security**, **education**, or **e-learning**.
-- Innovative projects with impactful goals.
+## Let’s Collaborate
+
+I’m open to collaborating on:
+
+* Web applications and tools, especially with **Vue.js**, **JavaScript**, or **TypeScript**.
+* Open-source projects in **education**, **security**, or **developer tools**.
+* Desktop applications using **Tauri**.
+* Innovative projects that solve real problems.
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me. 🚀
-
+Thank you for visiting my GitHub profile. Feel free to explore my repositories, check out my projects, and connect with me. 🚀
 
 <!---
-Cyden-Mnara/Cyden-Mnara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyden-Mnara/Cyden-Mnara is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
